@@ -43,6 +43,6 @@
 
 - 总结
   >解法1:
-    - 1、初始设置一个空数组$result作为返回值，将条件符合的数组下标push进$result,break本次循环，break只可跳出一层循环，❌失败。
-    - 2、第二层循环 let j=i+1; 💡j从i+1开始循环
-    - 3、条件成立看到同学使用nums.indexOf(target - nums[i]) > -1方式，逆向思维🤚值得推荐
+    - 1、初始设置一个空数组$result作为返回值，将条件符合的数组下标push进$result,break本次循环，break只可跳出一层循环，❌失败。
+    - 2、第二层循环 let j=i+1; 💡j从i+1开始循环
+    - 3、条件成立看到同学使用nums.indexOf(target - nums[i]) > -1方式，逆向思维🤚值得推荐
