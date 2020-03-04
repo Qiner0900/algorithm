@@ -2,6 +2,7 @@
 
 训练leetcode其中18个专题，每周一个专题，增强算法能力
 - 1、数组
+  > [两数之和](https://github.com/Qiner0900/algorithm/issues/1)
 - 2、动态规划
 - 3、字符串
 - 4、树
